@@ -1,3 +1,9 @@
+/*
+Dyandra Naresuan Vaisaka Passadhi
+255150707111030
+Teknologi Informasi - B
+*/
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
